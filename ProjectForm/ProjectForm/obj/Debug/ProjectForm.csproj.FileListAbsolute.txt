@@ -1,0 +1,15 @@
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\bin\Debug\ProjectForm.exe.config
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\bin\Debug\ProjectForm.exe
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\bin\Debug\ProjectForm.pdb
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.csproj.AssemblyReference.cache
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.Form1.resources
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.Properties.Resources.resources
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.csproj.GenerateResource.cache
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.csproj.CoreCompileInputs.cache
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.exe
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.pdb
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.Form2.resources
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.Form3.resources
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.Form4.resources
+C:\Users\Danial\source\repos\ProjectForm\ProjectForm\obj\Debug\ProjectForm.Form5.resources
